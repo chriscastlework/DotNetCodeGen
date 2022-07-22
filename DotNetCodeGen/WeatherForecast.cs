@@ -1,6 +1,7 @@
 namespace DotNetCodeGen;
 
-public class WeatherForecast
+
+WeatherForecast
 {
     public DateTime Date { get; set; }
 
